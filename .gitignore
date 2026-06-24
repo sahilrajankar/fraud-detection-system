@@ -3,12 +3,10 @@ __pycache__/
 *.pyc
 .env
 data/raw/*.csv
-*.pkl
 *.joblib
 .ipynb_checkpoints/
 .vscode/
 *.log
-models/*.pkl
 experiments/
 *.zip
 .kaggle/
