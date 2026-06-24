@@ -10,3 +10,6 @@ data/raw/*.csv
 experiments/
 *.zip
 .kaggle/
+
+# Hugging Face deployment directory (temporary)
+deployment_hf/
